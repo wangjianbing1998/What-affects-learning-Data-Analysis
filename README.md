@@ -45,7 +45,8 @@
 
 # Technology
 ## Installation
-``` pip install numpy matplotlib plotly pandas
+``` pip install numpy matplotlib plotly pandas```
+
 # Conclusion
 - 有优秀成绩的秘诀吗？ of course, 
 - 给足够的时间学习
